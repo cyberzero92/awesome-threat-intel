@@ -1621,5 +1621,32 @@
       "ransomware",
       "STIX"
     ]
+  },
+  {
+    "name": "ICHI Internet Cyber Health Index",
+    "description": "Free, source-transparent daily barometer of internet-wide cyber health. Aggregates 28+ live feeds (CISA KEV, EPSS, ransomware, C2 infra, DShield) into an hourly composite score with RSS alerts.",
+    "category": "Intelligence Feeds & Data Providers",
+    "subcategory": "Feed",
+    "license": "Open Source",
+    "deployment": "SaaS",
+    "vendor": "ICHI",
+    "vendor_hq_country": "United States",
+    "region": "US",
+    "data_type": "Mixed",
+    "access_type": "Free",
+    "last_verified": "2026-10-22",
+    "api_available": "Yes",
+    "stix_taxii_support": "No",
+    "focus_area": "Internet-wide cyber health monitoring and daily situational awareness",
+    "integrations": "RSS",
+    "url": "https://ichi.global/",
+    "tags": [
+      "free",
+      "threat-intelligence",
+      "rss",
+      "cyber-health",
+      "daily-monitoring",
+      "situational-awareness"
+    ]
   }
 ]

@@ -2,8 +2,8 @@
 
 > A curated list of awesome threat intelligence resources, tools, feeds, and platforms.
 >
-> **Last updated:** 2026-09-10
-> **Total entries:** 67
+> **Last updated:** 2026-10-21
+> **Total entries:** 68
 
 ## About This List
 
@@ -87,6 +87,7 @@ enabling filtering by license, region, deployment model, data type, and more.
 | [GreyNoise](https://www.greynoise.io/) | IP noise classification service distinguishing targeted attacks from benign internet scanners and mass exploitation. | Freemium | US | Free |
 | [HIPPOCampe](https://github.com/TheHive-Project/HIPPOCampe) | Open-source threat feed aggregator with REST API and native integration with TheHive and Cortex for SOC workflows. | Open Source | EU | Free |
 | [Hunt.io C2 Feed](https://hunt.io/) | High-confidence malicious infrastructure feed providing C2 server IPs identified through continuous scanning. | Commercial | US | Free |
+| [ICHI Internet Cyber Health Index](https://ichi.global/) | Free, source-transparent daily barometer of internet-wide cyber health. Aggregates 28+ live feeds (CISA KEV, EPSS, ransomware, C2 infra, DShield) into an hourly composite score with RSS alerts. | Open Source | US | Free |
 | [JPCERT/CC](https://www.jpcert.or.jp/english/) | Japanese CERT providing quarterly TSUBAME threat monitoring reports, APT analysis, and vulnerability coordination. | Open Source | APAC | Free |
 | [Malware Patrol](https://www.malwarepatrol.net/) | Commercial threat intelligence feed provider specializing in malware URLs, IPs, C2s, and DGAs since 2005. | Commercial | US | Paid |
 | [MalwareBazaar](https://bazaar.abuse.ch/) | abuse.ch malware sample hash repository for sharing and discovering malicious file samples with family classification. | Open Source | EU | Free |
