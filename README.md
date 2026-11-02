@@ -2,8 +2,8 @@
 
 > A curated list of awesome threat intelligence resources, tools, feeds, and platforms.
 >
-> **Last updated:** 2026-09-10
-> **Total entries:** 67
+> **Last updated:** 2026-11-02
+> **Total entries:** 68
 
 ## About This List
 
@@ -88,6 +88,7 @@ enabling filtering by license, region, deployment model, data type, and more.
 | [HIPPOCampe](https://github.com/TheHive-Project/HIPPOCampe) | Open-source threat feed aggregator with REST API and native integration with TheHive and Cortex for SOC workflows. | Open Source | EU | Free |
 | [Hunt.io C2 Feed](https://hunt.io/) | High-confidence malicious infrastructure feed providing C2 server IPs identified through continuous scanning. | Commercial | US | Free |
 | [JPCERT/CC](https://www.jpcert.or.jp/english/) | Japanese CERT providing quarterly TSUBAME threat monitoring reports, APT analysis, and vulnerability coordination. | Open Source | APAC | Free |
+| [Mallory](https://mallory.ai/) | Correlates intelligence from thousands of sources across IOCs, vulnerabilities, threat actors and malware, with source-attributed evidence, public intelligence pages and a free community tier. | Freemium | US | Freemium |
 | [Malware Patrol](https://www.malwarepatrol.net/) | Commercial threat intelligence feed provider specializing in malware URLs, IPs, C2s, and DGAs since 2005. | Commercial | US | Paid |
 | [MalwareBazaar](https://bazaar.abuse.ch/) | abuse.ch malware sample hash repository for sharing and discovering malicious file samples with family classification. | Open Source | EU | Free |
 | [OpenPhish](https://openphish.com/) | ML-detected phishing URL feed with free community feed and premium real-time updates for phishing detection. | Freemium | EU | Free |
