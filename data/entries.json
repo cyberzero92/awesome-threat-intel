@@ -1621,5 +1621,33 @@
       "ransomware",
       "STIX"
     ]
+  },
+  {
+    "name": "Mallory",
+    "description": "Correlates intelligence from thousands of sources across IOCs, vulnerabilities, threat actors and malware, with source-attributed evidence, public intelligence pages and a free community tier.",
+    "category": "Intelligence Feeds & Data Providers",
+    "subcategory": "Feed",
+    "license": "Freemium",
+    "deployment": "SaaS",
+    "vendor": "Mallory.ai Inc",
+    "vendor_hq_country": "United States",
+    "region": "US",
+    "data_type": "Mixed",
+    "access_type": "Freemium",
+    "last_verified": "2026-11-02",
+    "api_available": "Yes",
+    "stix_taxii_support": "No",
+    "focus_area": "IOC enrichment, actor and malware research, vulnerability intelligence",
+    "integrations": "REST API, MCP",
+    "url": "https://mallory.ai/",
+    "tags": [
+      "threat-intelligence",
+      "ioc",
+      "vulnerabilities",
+      "threat-actors",
+      "malware",
+      "mcp",
+      "community-tier"
+    ]
   }
 ]
